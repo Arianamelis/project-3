@@ -1,9 +1,10 @@
 # IndieLA
 Indie Artists in Los Angeles
 
-Indie Artists in Los Angeles is a powerful Full-Stack Web App with multiple capabilities. It allows users to do a search for upcoming indie music attractions around the greater Los Angeles area. IndieLA utilizes Ticket Master API to display upcoming Concert Dates, Artist Information, and ticket info. A user can login, register to save favorite artists for later viewing. 
+Indie Artists in Los Angeles is a powerful Full-Stack React- Web Application with multiple capabilities that utilizes assorted APIs.The homepage displays three upcoming Indie upcoming indie music attractions around the greater Los Angeles area and gives you the option to search your own favorite artists to view their upcoming performance dates with direct accesss to purchasing show tickets via LiveNation API, or favoriting the evnt to recall upon later.
+The upcoming Event List displays all Indie Events in the Los Angeles area via Ticket Master API.
 
-The local artists information appears on the bottom half of the screen, with links to purchase tickets, and a modal option to watch their music videos using the YouTube API. 
+After a user registers they can later login to save or view favorited artists also to purchase their concert tickts.
 
 Future plans include recommendations for similar artists and specific venue targeting.
 
